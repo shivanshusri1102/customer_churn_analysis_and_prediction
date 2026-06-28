@@ -1,4 +1,4 @@
-# customer_churn_analysis_and_prediction
+# Customer Churn Prediction And Analysis
 
 # Customer Churn Predictor 
 
